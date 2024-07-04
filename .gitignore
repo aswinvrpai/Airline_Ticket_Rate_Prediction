@@ -143,6 +143,7 @@ logs/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+check.py
 
 # Pyre type checker
 .pyre/
